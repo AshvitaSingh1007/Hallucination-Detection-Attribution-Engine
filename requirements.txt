@@ -1,3 +1,8 @@
 streamlit
 sentence-transformers
 torch
+streamlit
+openai
+python-dotenv
+sentence-transformers
+torch
